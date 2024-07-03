@@ -14,3 +14,6 @@ Transformar y visualizar los datos que permita a los propietarios de la tienda o
 2. Bajo rendimiento en la categoría de electrónica
    - Esta categoría ha experimentado una disminución constante en las ventas al compararla con otras como la de ropa 
 ![cerebro](https://github.com/CarlosRdz71/MicrosoftExcel/assets/174209073/4bd339f9-037a-472d-b412-97572aed79bd)
+
+### Codigo utilizado en el analisis 
+``` SELECT * FROM table ```
